@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -21,32 +21,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['6281332905229'] //ur owner number
+global.ownernomer = "6281332905229" //ur owner number2
+global.ownername = "Rangga プラセチョ" //ur owner name
+global.ytname = "Yt : K a z u y a Ch." //ur yt chanel name
+global.socialm = "GitHub: yugsjb" //ur github or insta name
+global.location = "Indonesia, Jakarta" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.botname = "Rann - MD"
+global.ownernumber = '6281332905229'
+global.ownername = 'Rangga プラセチョ'
+global.ownerNumber = ["6281332905229@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@KazuyaCeha"
+global.websitex = "https://www.tiktok.com/@ryugaitachi"
+global.wagc = "https://chat.whatsapp.com/KhNWEPoIXWyKTcaafmGTZu"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.wm = "Rann - MD Corp."
+global.botscript = 'Yahaha Mau Maling Sc Yaa😅☝️' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "Rann - MD Corp\n\n"
+global.creator = "6281332905229@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
-//media target
+//media targetnya 
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
